@@ -17,4 +17,3 @@ If you would like to retrace your steps, you can always revisit the exercise.
 Did you enjoy this practical style of learning? There's no better way to learn than building things, right?!
 
 Let's keep the momentum going! Head over to [GitHub Skills](https://skills.github.com) catalog to find another hands-on exercise. :rocket:
-
